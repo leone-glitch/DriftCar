@@ -12,5 +12,7 @@ To return to the starting point: r
 
 # Credits
 I use 2 templates for the car and map models.
-[Map]([https://www.google.it/](https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-race-tracks-110408)
-[Car](https://assetstore.unity.com/packages/3d/vehicles/land/racing-cars-pack-1-2195)
+
+[Link of the map](https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-race-tracks-110408)
+
+[Link of the Car](https://assetstore.unity.com/packages/3d/vehicles/land/racing-cars-pack-1-2195)
